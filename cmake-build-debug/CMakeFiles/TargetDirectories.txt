@@ -1,0 +1,4 @@
+C:/Users/pooas/CLionProjects/Sockets/cmake-build-debug/CMakeFiles/Sockets.dir
+C:/Users/pooas/CLionProjects/Sockets/cmake-build-debug/CMakeFiles/Client.dir
+C:/Users/pooas/CLionProjects/Sockets/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/pooas/CLionProjects/Sockets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
